@@ -4,7 +4,7 @@ import os
 import json
 import google.generativeai as genai
 
-API_KEY = "AIzaSyAIcETfhFLfHGHtmx-gXRp2gVn49CuLtHk"
+API_KEY = "Your_api_key"
 if not API_KEY:
     raise ValueError("Missing Google API Key! Ensure it is set correctly.")
 
