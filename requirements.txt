@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+langchain
+pymupdf
+python-docx
+pymysql
+numpy
